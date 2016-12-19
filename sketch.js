@@ -310,7 +310,7 @@ function instructions() { // Displays some brief guidelines about the menu & key
 
   textSize(32);
   textStyle(BOLD);
-  text("Cellendipity Explorer", 10, 35);
+  text("Cellendipity Explorer v1.0-beta.1", 10, 35);
 
   // textSize(12);
   // textStyle(NORMAL);

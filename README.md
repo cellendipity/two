@@ -9,5 +9,4 @@ Follow @cellendipity on <a href="https://twitter.com/cellendipity">Twitter</a>, 
 
 I'd love to hear from you at cellendipity@gmail.com
 
-best regards, Richard Brown (@rik-brown)
-
+best regards, Richard Brown (<a href="https://github.com/rik-brown">@rik-brown</a>)

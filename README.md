@@ -1,5 +1,5 @@
 # two
-*Cellendipity Explorer v1.0-beta.1*
+*Cellendipity Explorer v1.0-beta
 
 First published: 19th December 2016
 

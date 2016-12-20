@@ -183,10 +183,10 @@ var initGUI = function () {
     controlsMenu.add(gs, 'restart').name('Restart [space]').listen();
     controlsMenu.add(gs, 'restartRandomized').name('Randomize [R]').listen();
     controlsMenu.add(gs, 'randomizeOnRestart').name('Random@restart');
+    controlsMenu.add(gs, 'autoRestart').name('Auto-restart');
     var controller = controlsMenu.add(gs, 'showInstructions').name('Instructions [ I ]').listen();
       controller.onChange(function(value) {populateColony(); });
     controlsMenu.add(gs, 'hide').name('Hide/show [H]');
-    // optionsMenu.add(gs, 'autoRestart').name('Auto-restart');
 
   gui.close(); // GUI starts in closed state
 }
@@ -310,7 +310,7 @@ function instructions() { // Displays some brief guidelines about the menu & key
 
   textSize(32);
   textStyle(BOLD);
-  text("Cellendipity Explorer v1.0-beta.1", 10, 35);
+  text("Cellendipity Explorer", 10, 35);
 
   // textSize(12);
   // textStyle(NORMAL);
